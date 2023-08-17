@@ -1,4 +1,4 @@
-# Bank_customer_segmentation
+# Ecommerce_Consumer_Behaviour_Segmentation
 The objective of this project is to segment the grocery shop customers into multiple groups and to analyse the results when no labels are given for features.
 Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits. Most shops have a large customer base - with different characteristics in terms of 
 order value, products purchased, address, visiting time etc.
